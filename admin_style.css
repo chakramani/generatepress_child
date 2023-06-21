@@ -1,0 +1,35 @@
+.acf-field-relationship.cpmp4d ul.list li {
+  overflow: hidden;
+  padding: 5px;
+}
+.acf-field-relationship.cpmp4d ul.list li .acf-icon {
+  top: 40px;
+}
+.acf-field-relationship.cpmp4d ul.list li:hover {
+  background: #3875d7;
+  color: #fff;
+}
+.acf-field-relationship.cpmp4d ul.list li span.acf-rel-item {
+  padding: 0;
+    height: 100px;
+    font-size: 16px;
+    line-height: 100px;
+}
+
+.acf-field-relationship.cpmp4d ul.list li .thumbnail {
+  display: block;
+  margin: 0;
+  padding: 0;
+  float: left;
+  clear: both;
+  width: 100px;
+  height: 100px;
+  margin-right: 5px;
+}
+
+.acf-field-relationship.cpmp4d ul.list li .thumbnail img {
+  max-width: 100px;
+  max-height: 100px;
+  margin: 0 auto;
+  display: block;
+}
